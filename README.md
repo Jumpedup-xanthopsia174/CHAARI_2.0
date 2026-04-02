@@ -505,7 +505,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 ## Related Research
-**NMOS (Neural Memory Operating System)** — a companion research project exploring Anticipatory Inference for LLMs. Achieves 70B+ model reasoning on 4 GB VRAM via behavioral signal prediction and async layer prefetching. [View NMOS →]()
+**NMOS (Neural Memory Operating System)** — a companion research project exploring Anticipatory Inference for LLMs. Achieves 70B+ model reasoning on 4 GB VRAM via behavioral signal prediction and async layer prefetching. [View NMOS →](https://github.com/AlfaPankaj/Neural_Memory_Operating_system.git)
 
 <div align="center">
 
