@@ -14,7 +14,15 @@
 **CHAARI 2.0 is a privacy-first, full-duplex, bilingual agentic AI voice operating companion** — not a chatbot. It controls your computer, speaks Hinglish natively, runs on 4 GB VRAM, and operates across a two-node cryptographic mesh with RSA-2048 signed command packets, replay-protected nonces, and a 7-layer safety pipeline. Built for Indian developers and the next billion users; designed to interest anyone working on edge-deployed, safety-critical agentic AI systems.
 
 ---
+## 📸 Demo
 
+### Terminal Interface
+![CHAARI 2.0 Terminal](assets/demo_terminal.png)
+*CLI mode — boots with a welcome message and full command list*
+
+### Web Dashboard
+![CHAARI 2.0 Web Dashboard](assets/demo_web.png)
+*Gradio-powered web UI at `http://127.0.0.1:7860` with system status panel*
 ---
 
 ## Key Features
